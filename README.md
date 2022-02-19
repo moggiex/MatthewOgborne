@@ -14,7 +14,10 @@ https://www.udemy.com/course/mern-stack-front-to-back/)
 |:------------- |:-------------|
 | <ul><li>Build a full stack social network app with React, Redux, Node, Express & MongoDB</li><li>Create an extensive backend API with Express</li><li>Use Stateless JWT authentication practices</li><li>Integrate React with an Express backend in an elegant way</li><li>React Hooks, Async/Await & modern practices</li><li>Use Redux for state management</li><li>Deploy to Heroku with a postbuild script</li></ul>| <ul><li>**Source:** Udemy ([Link](https://www.udemy.com/course/mern-stack-front-to-back/))</li><li>**Author:** Brad Traversy</li><li>**Length** 12 hours</li><li>**Paid or Free:** Paid</li><li>**Repo:** [GitHub](https://github.com/moggiex/devconnector_2.0)</li><li>**Start Date** 18th Feb 2021</li><li>**Finish Date** TBC</li></ul> |
 
-### Course notes
+
+<details>
+  <summary><b><u>Course Notes (click to expand)</u></b></summary>
+
 This course was an ideal statring point to refresh myself with NodeJs, express and to gain hands on expereince with React, Mongo & redux. 
 
 I previously completed [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/course/nodejs-api-masterclass/) in 2020 and used it to create an API for my own software product to automatically pull in data from eBay trading & shopping API's. NodeJs completed the tasks in seconds compared to my previous approach using PHP because of its asyncronous nature.
@@ -33,5 +36,7 @@ Authorisation checks of the JWT were made in a simple middleware file, along wit
 | What I liked | And disliked  |
 |:------------- |:-------------|
 | - Easy to follow |  Several of the API calls were not complete. For example only the ability to create or delete was covered, so I left notes to modify this to update/create and went back and changed the finished project|
+
+</details>
 
 
