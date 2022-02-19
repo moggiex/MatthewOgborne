@@ -32,6 +32,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/)
     * gravatar
     * request
     * nodemon
+    * concurrently
 </details>
 
 <details>
