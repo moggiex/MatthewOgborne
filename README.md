@@ -22,7 +22,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/)
   * Redux
   * VScode
   * Postman
-  * npm packages
+  * npm packages (Nodejs backend)
     * express
     * mongoose
     * config
@@ -33,6 +33,15 @@ https://www.udemy.com/course/mern-stack-front-to-back/)
     * request
     * nodemon
     * concurrently
+  * npm packages (frontend)
+    * axios 
+    * react-router-dom 
+    * redux 
+    * react-redux 
+    * redux-thunk 
+    * redux-devtools-extension 
+    * moment 
+    * react-moment
 </details>
 
 <details>
