@@ -14,9 +14,28 @@ https://www.udemy.com/course/mern-stack-front-to-back/)
 |:------------- |:-------------|
 | <ul><li>Build a full stack social network app with React, Redux, Node, Express & MongoDB</li><li>Create an extensive backend API with Express</li><li>Use Stateless JWT authentication practices</li><li>Integrate React with an Express backend in an elegant way</li><li>React Hooks, Async/Await & modern practices</li><li>Use Redux for state management</li><li>Deploy to Heroku with a postbuild script</li></ul>| <ul><li>**Source:** Udemy ([Link](https://www.udemy.com/course/mern-stack-front-to-back/))</li><li>**Author:** Brad Traversy</li><li>**Length** 12 hours</li><li>**Paid or Free:** Paid</li><li>**Repo:** [GitHub](https://github.com/moggiex/devconnector_2.0)</li><li>**Start Date** 18th Feb 2021</li><li>**Finish Date** TBC</li></ul> |
 
+<details>
+  <summary><b><u>:wrench: Tools Used (click to expand)</u></b></summary>
+  
+  * NodeJs
+  * React
+  * Redux
+  * VScode
+  * Postman
+  * npm packages
+    * express
+    * mongoose
+    * config
+    * bcryptjs
+    * jsonwebtoken
+    * express-validator
+    * gravatar
+    * request
+    * nodemon
+</details>
 
 <details>
-  <summary><b><u>Course Notes (click to expand)</u></b></summary>
+  <summary><b><u>:notebook: Course Notes (click to expand)</u></b></summary>
 
 This course was an ideal statring point to refresh myself with NodeJs, express and to gain hands on expereince with React, Mongo & redux. 
 
