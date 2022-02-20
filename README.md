@@ -61,11 +61,16 @@ I had forgotten how well MongoDb can be structured with the use of Schemas. I'm 
 
 Authorisation checks of the JWT were made in a simple middleware file, along with the use of [express-validator](https://www.npmjs.com/package/express-validator) to validate user submiited data before progressing and to return applicable messaging via json if checks were failed.
 
+### What I liked about this course
+* Code-along, lead by example format to create a working app at the end of it
+* The NodeJs side felt comfrotable from previos expeience
+* Straight into working with React (haven't worked with before at all!)
 
+### And disliked
+* Some of the API calls were left lacking. Specifciacally the lack of pagination to limit the amount of data being returned and also some of the API calls did not have the option to update, just add or delete. Added @todo notes for these in the source, may return later to add these when more knowledgeable
+* The course was a little older, discovered a few minor issues while working through. For example the removal of Switch from react-router-dom and the use of Routes instead
+* 
 
-| What I liked | And disliked  |
-|:------------- |:-------------|
-| - Easy to follow |  Several of the API calls were not complete. For example only the ability to create or delete was covered, so I left notes to modify this to update/create and went back and changed the finished project|
 
 </details>
 
